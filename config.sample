@@ -1,0 +1,10 @@
+strKey = b'YourKeyGoesHere='
+
+dictCalendars = {"Calendar Name": "CalendarID@group.calendar.google.com", "Another Calendar" : "AnotherCalendarID@group.calendar.google.com"}
+iMaxGoogleResults = 200
+
+strEWSHost = 'exchange.example.com'
+strPrimarySMTP = 'AccountSMTP@example.com'
+strUsernameCrypted = b'gAA5A%B5d_5m5R5L_5x5q-5T5g555B5Y545y5kCo='
+strPasswordCrypted = b'gA5A5A5d5_w5s55555ed=='
+iMaxExchangeResults = 2000
